@@ -1,6 +1,6 @@
 # Battleship_JS
 
-Projet Battleship réalisé en groupe de 2 personnes avec du JavaScript
+Projet Battleship réalisé en groupe de 2 personnes en JavaScript
 
 Le but de ce projet était de réparer le code qu'on nous avais donné.
 
